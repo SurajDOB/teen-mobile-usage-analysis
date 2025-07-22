@@ -1,23 +1,45 @@
-# Teen Mobile Usage & Addiction Analysis 📱
+# Teen Mobile Usage Analysis 📱
 
-This project explores data related to mobile phone usage among teens and analyzes factors related to phone addiction.
+This project analyzes patterns in teen mobile phone usage and addiction levels using Python.
 
-## 🔍 Dataset
-- Sample size: ~100 students
-- Contains daily usage patterns, addiction levels, and other behavioral indicators.
+---
 
-## 📊 Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Excel
+## 📁 Dataset
+- **Source**: [Mention if it’s real or synthetic]
+- **Fields**: Gender, daily screen time, app usage, addiction level, etc.
 
-## 📈 Key Insights
-- Analyzed trends in daily usage vs addiction levels
-- Compared average screen time by gender
-- Identified most commonly used apps
+---
 
-## 📁 Files
-- `TPADA.py` – Python analysis script
-- `TeenPhoneAddictionDatasetAnalysis.xlsx` – Original dataset
+## 🎯 Objectives
+- Identify how phone addiction varies by gender.
+- Explore daily usage trends and patterns.
+- Discover which apps are most used by teens.
 
-## 💡 Author
-Suraj Santosh Kahar – Aspiring Data Analyst | Football Coach | Youth Facilitator
+---
+
+## 📊 Tools & Technologies
+- **Python**: Pandas, Matplotlib, Seaborn
+- **Excel**: Basic cleaning and summary stats
+- **VS Code**: Code environment
+- **GitHub**: Version control and project sharing
+
+---
+
+## 🔍 Key Findings
+- Girls averaged lower screen time but had similar addiction scores.
+- Social media apps were the most used.
+- Positive correlation found between screen time and addiction level.
+
+---
+
+## 🧠 Skills Demonstrated
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualization and Storytelling with Data
+- GitHub Workflow
+
+---
+
+## 🙋‍♂️ About Me
+I’m **Suraj Santosh Kahar**, a Computer Science graduate and coach with a passion for data.  
+📧 surajkahar784@gmail.com  
